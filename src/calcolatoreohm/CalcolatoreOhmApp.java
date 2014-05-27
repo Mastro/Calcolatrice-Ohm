@@ -1,5 +1,5 @@
 /*
- * CalcolatoreOhmApp.java
+ * Calcolatore Ohm 1.0
  */
 
 package calcolatoreohm;
